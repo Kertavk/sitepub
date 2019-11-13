@@ -1,0 +1,327 @@
+html {
+
+font-size:12px;
+
+}
+head{
+
+}
+header {
+
+
+
+}
+.article{
+	max-width: 800px;
+	margin: ;
+
+
+}
+
+.about
+{
+	line-height: normal;
+	color:white;
+	font-size: 25px;
+
+}
+.cv
+{
+	line-height: normal;
+	font-size: 20px;
+	color:white;
+
+}
+.titres_cv{
+	background:black;
+	font-family:Helvetica;
+	font-weight : bold;
+	font-size:40px;
+	text-align:left;
+	line-height:normal;
+	color:white;
+}
+.contact
+{ color:white;
+	line-height: normal;
+}
+.titre_limen
+{
+	color:white;
+	font:400;
+	font-size: 30;
+}
+.limen
+{
+	line-height: normal;
+	margin-top:20;
+	margin-right: 500;
+	text-align: left;
+font-size:0.7rem;
+color:white;
+position: relative;
+margin-top: 2%;
+left: 1%;
+width: 70%;
+z-index: 2;
+}
+
+.titre_crisi
+{
+	color:white;
+	font:400;
+	font-size: 30;
+}
+
+.crisi
+{
+	line-height: normal;
+	margin-top: 30;
+	margin-right: 500;
+	text-align: left;
+	font-size:0.7rem;
+	color:white;
+	position: relative;
+	margin-top: 2%;
+	left: 1%;
+	width: 50%;
+	z-index: 2;
+
+}
+.titre_traces{color:white;
+font:400;
+font-size: 30;}
+
+.traces
+{
+	line-height: normal;
+	margin-top: 30;
+	margin-right: 500;
+	text-align: left;
+	font-size:0.7rem;
+	color: white;
+	position: relative;
+	margin-top: 2%;
+	left: 1%;
+	width: 50%;
+	z-index: 2;
+
+}
+
+.titres_ciguri
+{
+	line-height: normal;
+
+}
+
+.ciguri
+{
+	line-height: normal;
+	color:white;
+	font-size: 25px;
+}
+
+.titre_MK {
+
+line-height: normal;
+	color:white;
+	font-size: 30px;
+	}
+
+.MK
+{
+	line-height: normal;
+color:white;
+font-size: 0.7rem;
+}
+
+
+.titres_holymovie
+{
+	font-size: 4rem;
+}
+
+.HolyMovie
+
+{
+	line-height: normal;
+	color:white;
+	font-size: 25px;
+
+}
+
+.strati
+{
+	line-height: normal;
+	margin-top: 30;
+	margin-right: 500;
+	text-align: left;
+font-size:0.7rem;
+color:white;
+position: relative;
+margin-top: 2%;
+left: 1%;
+width: 70%;
+z-index: 2;
+}
+
+.titre_strati
+{
+font-size: 40px;
+color: white;
+}
+
+.titre_mythopoeia
+{
+font-size: 40px;
+color: white;
+}
+.mythopoeia
+{	line-height: normal;
+	margin-top:20;
+	margin-right: 500;
+	text-align: left;
+font-size:0.7rem;
+color:white;
+position: relative;
+margin-top: 2%;
+left: 1%;
+width: 70%;
+z-index: 2;}
+
+.titres_About{
+
+font-family: 'Inconsolata', monospace;
+font-size:4rem;
+font-weight: 700
+color: black;
+}
+.imgdesign
+{
+	width: 150px;
+height: 150px;
+object-fit: cover;
+
+
+}
+.example-image-link
+{font-size:1.5rem;
+}
+p {
+	margin-top: 20;
+	text-align: left;
+font-size:1.3rem;
+color:white;
+}
+
+a {color:white;
+	font-size: 2.2rem;
+	line-height: 30px;
+
+}
+a:hover {
+	color: rgb(143,143,143);
+}
+
+
+.col{
+	color: rgb(143,143,143);
+}
+}
+
+nav {
+
+	text-align: center;
+	font-family: 'Inconsolata', monospace;
+color:#9b9ea3;
+font-size:2rem;
+
+ }
+
+
+body
+
+	{
+		cursor: crosshair;
+		margin-top: 3vw;
+		padding: 3vw;
+		background:black;
+		font-family:Helvetica;
+		font-weight : bold;
+		font-size:30px;
+		text-align:left;
+		line-height:10px;
+		color:white;
+}
+
+
+@media (max-width: 767px) {}
+
+.textup{
+	margin-top: 20;
+	text-align: left;
+font-size:1.5rem;
+color:white;
+	font-size: 2.5rem;
+	line-height: 30px;
+	font-size: 10px;
+position: relative;
+    margin-top: 1%;
+    left: 1%;
+    width: 90%;
+    z-index: 2;
+	}
+
+	.textbas {
+    position: relative;
+    margin-top: 2%;
+    left: 1%;
+    width: 90%;
+    z-index: 2;
+}
+
+	html {
+		font-size:24px;
+
+	}
+
+	body{
+		margin-right: 5vw;
+		margin-left: 0;
+		margin-top: 1rem;
+		color:black;
+	}
+	article{
+
+		flex-direction: column;
+
+	}
+	article h1{
+		margin-right: 0px;
+
+}
+
+.lightboxOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: black;
+
+    opacity: 0.8;
+	}
+
+
+.flex{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+
+
+}
+.flex img{
+	height:auto;
+	width: 300px;
+}

@@ -1,0 +1,366 @@
+html {
+
+font-size:12px;
+
+}
+head{
+
+}
+header {
+
+
+}
+.article{
+	max-width: 800px;
+	margin: ;
+
+
+
+
+
+}
+
+.about
+{
+	line-height: normal;
+	color:white;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+.cv
+{
+	line-height: normal;
+	font-size: 20px;
+	color:white;
+	line-height: 30px;
+
+}
+.titres_cv{
+	background:black;
+	font-family:Helvetica;
+	font-weight : bold;
+	font-size:40px;
+	text-align:left;
+	line-height:normal;
+	color:white;
+}
+
+.titre_contact
+{
+	color:white;
+	font-size: 40px;
+
+}
+
+.contact
+{
+	color:white;
+	font-size: 20px;
+	line-height: 30px;
+}
+.titre_limen
+{
+	color:white;
+	font-size: 40px;
+}
+.limen
+{
+	margin-top:20;
+	margin-right: 500;
+	text-align: left;
+	font-size: 20px;
+	line-height: 30px;
+color:white;
+position: relative;
+margin-top: 2%;
+left: 1%;
+width: 70%;
+z-index: 2;
+}
+
+.titre_crisi
+{
+	color:white;
+	font:400;
+	font-size: 40px;
+}
+
+.crisi
+{
+	line-height: normal;
+	margin-top: 30;
+	margin-right: 500;
+	text-align: left;
+	font-size: 20px;
+	line-height: 30px;
+	color:white;
+	position: relative;
+	margin-top: 2%;
+	left: 1%;
+	width: 50%;
+	z-index: 2;
+
+}
+.titre_traces{
+	color:white;
+	font-size: 40px;}
+
+.traces
+{
+	font-size: 20px;
+	line-height: 30px;
+	margin-top: 30;
+	margin-right: 500;
+	text-align: left;
+	color: white;
+	position: relative;
+	margin-top: 2%;
+	left: 1%;
+	width: 50%;
+	z-index: 2;
+
+}
+
+.titres_ciguri
+{
+	line-height: normal;
+	font-size: 40px;
+}
+
+.ciguri
+{
+	line-height: normal;
+	color:white;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.titre_MK {
+
+line-height: normal;
+	color:white;
+	font-size: 40px;
+	}
+
+.MK
+{
+
+color:white;
+font-size: 20px;
+line-height: 30px;
+}
+
+
+.titres_holymovie
+{
+	line-height: normal;
+color:white;
+font-size: 40px;
+}
+
+.HolyMovie
+
+{
+
+	color:white;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.strati
+{
+
+	margin-top: 30;
+	margin-right: 500;
+	text-align: left;
+	font-size: 20px;
+	line-height: 30px;
+color:white;
+position: relative;
+margin-top: 2%;
+left: 1%;
+width: 70%;
+z-index: 2;
+}
+
+.titre_strati
+{
+	font-size: 40px;
+	color: white;
+}
+
+.titre_mythopoeia
+{
+font-size: 40px;
+color: white;
+}
+
+.mythopoeia
+{	font-size: 20px;
+	line-height: 30px;
+	margin-top:20;
+	margin-right: 500;
+	text-align: left;
+color:white;
+position: relative;
+margin-top: 2%;
+left: 1%;
+width: 70%;
+z-index: 2;}
+
+.titre_about{
+
+	font-size: 40px;
+	color: white;
+}
+
+.imgdesign
+{
+	width: 150px;
+height: 150px;
+object-fit: cover;
+}
+
+.example-image-link
+{font-size:35px;
+}
+
+p
+{
+	margin-top: 20;
+	text-align: left;
+font-size:2.5rem;
+line-height: 30px;
+color:white;
+}
+
+a {color:white;
+	font-size: 3.2rem;
+	line-height: 30px;
+}
+
+a:hover {
+	color: rgb(143,143,143);
+}
+
+
+.col{
+	color: rgb(143,143,143);
+}
+
+
+body
+
+	{
+		cursor: crosshair;
+		margin-top: 3vw;
+		padding: 3vw;
+		background:black;
+		font-family:Helvetica;
+		font-weight : bold;
+		font-size:30px;
+		text-align:left;
+		line-height:10px;
+		color:white;
+}
+
+
+@media (max-width: 767px) {}
+
+.textup{
+	margin-top: 20;
+	text-align: left;
+color:white;
+	font-size: 2.5rem;
+	line-height: 30px;
+position: relative;
+    margin-top: 1%;
+    left: 1%;
+    width: 90%;
+    z-index: 2;
+	}
+
+	.textbas {
+    position: relative;
+    margin-top: 2%;
+    left: 1%;
+    width: 90%;
+    z-index: 2;
+}
+
+	html {
+		font-size:24px;
+	}
+
+	body{
+		margin-right: 5vw;
+		margin-left: 0;
+		margin-top: 1rem;
+		color:black;
+	}
+
+	article{
+
+		flex-direction: column;
+	}
+	article h1{
+		margin-right: 0px;
+}
+
+.lightboxOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: black;
+		opacity: 0.8;
+	}
+
+.flex{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.flex img{
+	height:auto;
+	width: 300px;
+}
+.lightbox {
+	/** Default lightbox to hidden */
+	display: none;
+
+	/** Position and style */
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+}
+
+.lightbox img {
+	/** Pad the lightbox image */
+	max-width: 90%;
+	max-height: 80%;
+	margin-top: 2%;
+}
+
+.lightbox:target {
+	/** Remove default browser outline */
+	outline: none;
+
+	/** Unhide lightbox **/
+	display: block;
+}
+
+.n
+{
+	font-size: 30px;
+	display:inline;
+
+}
